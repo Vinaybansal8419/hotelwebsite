@@ -1,7 +1,8 @@
-.classfirstlogo{
+.classfirstlogo {
     height: 60px;
-    width:60px;
+    width: 60px;
 }
+
 .delhi-img,
 .goa-img,
 .hyderabad-img,
@@ -9,7 +10,13 @@
     height: 300px;
     width: 300px;
 }
-.social-icons{
+
+.social-icons {
     height: 20px;
     width: 22px;
+}
+
+.first-logo {
+    height: 60px;
+    width: 60px;
 }
